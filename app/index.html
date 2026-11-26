@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maple &amp; Main — Rivera Household Budget</title>
+<meta name="description" content="A household budget site for the Rivera family: dashboard, transactions, budgets, trends, bills, savings goals and data — all offline, all working.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true">M&amp;M</span>
+    <span class="brand-text"><strong>Maple &amp; Main</strong><small>Rivera household budget · Nov 2026</small></span>
+  </div>
+  <nav aria-label="Sections">
+    <a href="#/">Dashboard</a>
+    <a href="#/transactions">Transactions</a>
+    <a href="#/budgets">Budgets</a>
+    <a href="#/trends">Trends</a>
+    <a href="#/bills">Bills</a>
+    <a href="#/goals">Goals</a>
+    <a href="#/data">Data</a>
+  </nav>
+</header>
+<main id="app" aria-live="polite"><noscript><p style="padding:2rem">Maple &amp; Main needs JavaScript to run — it is a small local app, and every figure on the page is computed in your browser.</p></noscript></main>
+<footer class="footer">
+  <p>Maple &amp; Main — a household budget that runs entirely in your browser. No account, no network, no tracking: your figures stay on your device.</p>
+  <p class="muted">Sample data: the Rivera family (Daniel &amp; Priya, Leo and Sofia) is fictional. Replace the sample with your own household’s numbers on the Data page.</p>
+</footer>
+<script src="data.js"></script>
+<script src="store.js"></script>
+<script src="charts.js"></script>
+<script src="views.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
