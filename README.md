@@ -1,8 +1,8 @@
 # Maple & Main — Rivera Household Budget
 
-![competition](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)
-![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/maoza119900/best-household-budget-site-20261126-1457/rank.svg)
-![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/maoza119900/best-household-budget-site-20261126-1457/reward.svg)
+[![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/maoza119900/best-household-budget-site-20261126-1457/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/maoza119900/best-household-budget-site-20261126-1457/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
 
 A household budget site for one fictional family — the Riveras (Daniel & Priya, kids Leo and Sofia) — that runs entirely offline in a web browser, on a desktop and on a phone, from static files with no network request.
 
